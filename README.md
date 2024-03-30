@@ -2,6 +2,14 @@ MYABANDONWARE - Repack by MagiPack (2024-04)
 <br/>
 Včetně CZ dabingu. Velikost 128MB https://drive.google.com/drive/folders/1xlzaYc_1A7NNs7HHnacomQ7u9Nyk9SM1
 
+Postup
+<br/>
+-aplikovat CZ patch
+<br/>
+-nakopírovat obsah složky "_CZ-PART2" do hry
+<br/>
+<br/>
+<br/>
 Chyby
 <br/>
 -v případě chybějících DLL souborů v systému je možné použít toto (nakopírovat do hry)
