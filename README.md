@@ -1,6 +1,6 @@
 MYABANDONWARE - Repack by MagiPack (2024-04)
 <br/>
-Včetně CZ dabingu. Velikost 128MB https://drive.google.com/drive/folders/1xlzaYc_1A7NNs7HHnacomQ7u9Nyk9SM1
+Velikost 128MB https://drive.google.com/drive/folders/1xlzaYc_1A7NNs7HHnacomQ7u9Nyk9SM1
 
 Postup
 <br/>
