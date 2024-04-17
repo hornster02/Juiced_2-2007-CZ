@@ -4,8 +4,8 @@ Velikost 128MB https://drive.google.com/drive/folders/1xlzaYc_1A7NNs7HHnacomQ7u9
 
 Postup
 <br/>
--aplikovat CZ patch
-<br/>
+-aplikovat CZ patch (hra funguje i bez něj, ale v tom případě bude občas blbnout dabing který bude občas useknutý a nebo bude spuštěn v nesprávný čas)
+
 -nakopírovat obsah složky "_CZ-PART2" do hry
 <br/>
 <br/>
